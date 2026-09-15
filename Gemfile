@@ -30,6 +30,13 @@ gem "solid_cable"
 gem 'concurrent-ruby', '1.3.4'
 gem 'yaml_db'
 
+
+gem 'rexml'
+gem 'rspec-rails'
+gem 'brakeman'
+gem 'rubocop'
+
+
 # Reduces boot times through caching; required in config/boot.rb
 gem "bootsnap", require: false
 
