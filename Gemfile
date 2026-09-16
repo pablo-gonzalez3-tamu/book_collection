@@ -27,7 +27,7 @@ gem "tzinfo-data", platforms: %i[ windows jruby ]
 gem "solid_cache"
 gem "solid_queue"
 gem "solid_cable"
-gem 'concurrent-ruby', '1.3.4'
+gem 'concurrent-ruby', '1.3.8'
 gem 'yaml_db'
 
 # Reduces boot times through caching; required in config/boot.rb
